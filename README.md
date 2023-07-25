@@ -2,10 +2,7 @@
 Impact of US Federal Interest Rate Policy on Forward-Looking Valuations of Large Businesses
 
 ## Project Slides
-Available via Google Slides (https://docs.google.com/presentation/d/1pjGxOh8FvX1S35TMoEiEba3v-Y6i0WvMh-jHJv1zy38/edit#slide=id.p), PDF copy also included in repo
-
-## Project Writeup
-Available in Google Docs ()
+Available via Google Slides (https://docs.google.com/presentation/d/1pjGxOh8FvX1S35TMoEiEba3v-Y6i0WvMh-jHJv1zy38/edit#slide=id.p), with PDF copy also included in repo
 
 ## Project Description
 Analysis of US interest rate policy relative to large US company valuations. Interest rate policy is represented by effective federal funds rates, set by the Federal Open Market Committee (FOMC) within the Federal Reserve central bank of the US. Forward-looking valuations of large companies are represented by S&P 500 Price-to-Earnings (PE) Ratio data.
