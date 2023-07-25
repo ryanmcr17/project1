@@ -22,7 +22,7 @@ Anecdotally, and very generally, businesses typically see stronger revenue/earni
 - Considering the potential time-lag in impact of interest rates on PE ratios, is there a stronger correlation between the two variables if accounting for that time-lag by shifting the x-axis for one of the variables relative to the other?
 - What other factors/variables likely impact US company valuations / PE ratios that should be considered through additional analyses? Which of those may also have an impact on interest rate policy / future rates themselves?
 - Are there specific sectors / business types that respond more directly/immediately to changes in federal interest rate policy?
-- Is there a 'better' dependent variable to represent US interest rate policy/plans that might show a higher correlation with PE ratios / company valuations?
+- Is there a ‘better’ dependent variable for representing interest rate policy in the US, in terms of showing a closer real-time correlation with PE ratios and therefore higher potential for causality/predictability (i.e. producing an r-value closer to -1)?
 
 ## Additional Notes on Project/Plan
 Originally considered looking at tech company valuations specifically, via NASDAQ index PE ratios and because interest rates anecdotally seem to have a greater impact on tech company valuations due to longer average time-to-value industry-wide. Went with broader S&P 500 index data because it's available across a much longer time period, and Fed interest rates move quite slowly over years and differently over decades.
